@@ -1,9 +1,9 @@
 # PriceRadar: Real-Time Amazon Price Tracker 🚀
 
-## Track, Graph, and Save on Amazon! 📈💰
+## Track, Graph, and Save on Amazon! 💰
 
 ### Description ℹ️:
-This real-time Amazon web scraper is your ultimate tool for tracking product prices on Amazon. Simply input the products you're interested in, and let the scraper do the rest. Get real-time updates, view price trends on graphs, and receive notifications when prices drop! 🔔💸
+This real-time Amazon web scraper is your ultimate tool for tracking product prices on Amazon. Simply input the products you're interested in, and let the scraper do the rest. Get real-time updates, view price trends on graphs, and receive notifications when prices drop! 
 
 ### Features ✨
 - **Real-Time Tracking:** Keep track of product prices as they fluctuate on Amazon.
@@ -15,7 +15,7 @@ This real-time Amazon web scraper is your ultimate tool for tracking product pri
 1. Clone this repository to your local machine.
 2. Install the dependencies using `pip install -r requirements.txt`
 3. run file `python Amazon_price_tracker.ipynb`
-4. Sit back and let the scraper do its magic! 🪄✨
+4. Sit back and let the scraper do its magic! 
 
 ### Technologies Used 💻:
 - Python
